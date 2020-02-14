@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".farmers.crops.BijerJotnoActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/fosol" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:background="@color/colorPrimary"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/solaiman_lipi"
+                    android:gravity="center"
+                    android:text="মাটির উর্বরতা সংরক্ষণ ও বৃদ্ধির কৌশল"
+                    android:textColor="#fff"
+                    android:textSize="24sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/solaiman_lipi"
+                    android:text="সুষম মাত্রায় সার প্রয়োগ:"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView12"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/solaiman_lipi"
+                    android:text="ফসল তার পুষ্টির জন্য প্রয়োজনীয় খাদ্যোপাদান মাটি থেকে গ্রহণ করে ফলে বিভিন্ন ফসল চাষাবাদের কারণে মাটির উর্বরতা ক্রমান্বয়ে হ্রাস পেতে থাকে। তাই ঘাটতি পূরণের জন্য জমিতে জৈব ও রাসায়নিক সারের সমন্বয়ে সুষম মাত্রায় সার প্রয়োগ করা উচিত।"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/textView14"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/solaiman_lipi"
+                    android:text="জৈব পদার্থ ব্যবহার:"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView15"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/solaiman_lipi"
+                    android:text="মাটির ভৌতিক ও রাসায়নিক অবস্থা উন্নয়নের জন্য জৈব পদার্থের ভূমিকা খুবই গুরুত্বপূর্ণ। এটি উদ্ভিদের খাদ্যোপাদান সরবরাহ, মাটির অম্ল ও ক্ষারত্বের তারতম্য রক্ষা এবং রাসায়নিক কার্যকারিতা বৃদ্ধি করে। তাই জমিতে পর্যাপ্ত পরিমাণ গোবর সার, কম্পোস্ট, খামারজাত সার ইত্যাদি প্রয়োগ করে মাটির উর্বরতা বৃদ্ধি ও সংরক্ষণের প্রচেষ্টা নেয়া উচিত। পাশাপাশি সবুজ সার ও বিভিন্ন ফসলের অবশিষ্টাংশ মাটিতে মিশিয়ে জৈব পদার্থের পরিমাণ বৃদ্ধি করা যেতে পারে।"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/textView16"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/solaiman_lipi"
+                    android:text="উপযুক্ত শস্য বিন্যাস অনুসরণ:"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView17"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/solaiman_lipi"
+                    android:text="জমিতে প্রতি বছর একই ফসল বা একই ধরনের ফসলের চাষ করলে একটি নির্দিষ্ট স্তরের নির্দিষ্ট পুষ্টি উপাদান নিঃশেষিত হয়ে উর্বরতা বিনষ্ট হয়। তাই পর্যায়ক্রমে গুচ্ছমূল জাতীয় ফসলের পর প্রধান মূলজাতীয় ফসল, একবীজপত্রীর পর দ্বিবীজপত্রীর ফসল এবং অধিক খাদ্য গ্রহণকারীর পর অল্প খাদ্য গ্রহণকারী ফসল আবাদ করে মাটির উর্বরতা বৃদ্ধি ও সংরক্ষণ করা যেতে পারে। শস্য বিন্যাস অবশ্যই মাটি, ভৌগোলিক অবস্থান ইত্যাদি ভেদে নির্ণয় করতে হবে।"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/textView18"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/solaiman_lipi"
+                    android:text="জমিকে বিশ্রাম দেয়া :"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView19"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/solaiman_lipi"
+                    android:text="দীর্ঘদিন ধরে কোনোরূপ বিশ্রাম ছাড়া নিবিড় চাষাবাদ করা হলে মাটির ভৌত, রাসায়নিক ও জৈব গুণাবলির অবনতি ঘটে। তাই কয়েক বছর পর অন্তত এক মৌসুমের জন্য জমি পতিত রেখে জমিকে বিশ্রাম দেয়া খুবই প্রয়োজন। এ সময়ে জমিতে সবুজ সারের চাষ বা নিয়মিত পশু চারণের ব্যবস্থা করলে ভূমির উর্বরতা আরও বৃদ্ধি পায়।"
+                    android:textSize="16sp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

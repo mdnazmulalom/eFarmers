@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="my_products">আমার পণ্য </string>
+    <string name="my_profile">আমার প্রোফাইল</string>
+    <string name="orders">অর্ডার</string>
+    <string name="crops">কৃষি তথ্য </string>
+    <string name="add_products">পণ্য যুক্ত করুন </string>
+    <string name="logout">লগ আউট </string>
+    <string name="welcome">স্বাগতম ! </string>
+    <string name="name">কৃষকের নাম :</string>
+    <string name="cell">ফোন নাম্বার :</string>
+    <string name="location">ঠিকানা :</string>
+    <string name="password">পার্সোয়াড:</string>
+    <string name="edit">পরিবর্তন করুন </string>
+    <string name="gender">লিঙ্গ :</string>
+    <string name="farmer">কৃষক  </string>
+    <string name="update_profile">প্রোফাইল পরিবর্তন </string>
+    <string name="information">তথ্য </string>
+    <string name="action_settings">সেটিংস </string>
+
+    <string name="product_name">পণ্যের নাম </string>
+    <string name="category">ক্যাটাগরি </string>
+    <string name="price">মূল্য প্রতি কেজি </string>
+    <string name="description">বর্ণনা </string>
+    <string name="choose_image">ছবি নির্বাচন</string>
+    <string name="submit">সাবমিট </string>
+    <string name="order_information">অর্ডারের তথ্য </string>
+    <string name="order_id">অর্ডার আইডি </string>
+    <string name="quantity">পরিমাণ </string>
+    <string name="shipping_information">শিপিং এর তথ্য </string>
+    <string name="time_date">সময় </string>
+
+    <string name="full_address">পূর্ণ ঠিকানা </string>
+    <string name="payment_methods">পেমেন্ট এর মাধ্যম </string>
+
+    <string name="order_status">অর্ডার অবস্থা </string>
+    <string name="payment_method">পেমেন্ট এর মাধ্যম </string>
+    <string name="call_retailer">কল রিটাইলার </string>
+    <string name="confirm_order">কনফার্ম অর্ডার </string>
+    <string name="cancel_order">অর্ডার বাতিল </string>
+    <string name="govt_notice">সরকারী নোটিস </string>
+    <string name="stock_in_kg">Stock In KG</string>
+
+
+</resources>

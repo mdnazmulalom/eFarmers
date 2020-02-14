@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".farmers.crops.BijerJotnoActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/potato" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:background="@color/colorPrimary"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/solaiman_lipi"
+                    android:gravity="center"
+                    android:text="আলু সংরক্ষণ পদ্ধতি"
+                    android:textColor="#fff"
+                    android:textSize="24sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/solaiman_lipi"
+                    android:padding="10dp"
+                    android:text="কৃষক পর্যায়ে আলু সংরক্ষণ : \n আলু সংরক্ষণের জন্য হিমাগার সবচেয়ে উপযুক্ত স্থান। তবে কয়েকটি বিষয়ের প্রতি লক্ষ্য রাখলে ঘরেই ৫-৬ মাস ভালভাবে আলু সংরক্ষণ করা যায়। এ বিষয়গুলো হলো, মেঘলা বা বৃষ্টির দিনে আলু তোলা ঠিক না। সকালের সময়ে আলু উঠানো ভাল। আলু সম্পূর্ণভাবে পরিপক্ক হলে তুলতে হয়। আলু উঠানোর ৭-১০ দিন আগে গাছের গোড়া কেটে ফেলা দরকার। আলু তোলার সময় লক্ষ্য রাখতে হবে যেন কোদাল বা লাঙ্গলের আঘাতে আলু কেটে না যায়। আলু তোলা শেষ হলে তা পরিবহণের সময় চটের বস্তা ব্যবহার করা ভাল। সাধারণত বস্তায় আলু ভরার সময় প্লাস্টিকের ঝুড়ি বা গামলা ব্যবহার করা উত্তম। আলু সংগ্রহ শেষে যত তাড়াতাড়ি সম্ভব বাড়িতে নেয়া দরকার। যদি কোন কারণে ক্ষেতে আলু রাখতে হয় তা হলে ছায়াযুক্ত জায়গায় রেখে পাতলা কাপড়/খড় দিয়ে ঢেকে রাখতে হবে। বাড়িতে আলু পরিস্কার, শুকনো ছায়াযুক্ত জায়গায় রাখতে হয়। আলু সংগ্রহ করা সম্পূর্ণ শেষ হলে ১-৭ দিন পরিষ্কার ঠান্ডা জায়গায় আলু বিছিয়ে রেখে পাতলা কাপড় দিয়ে ঢেকে রেখে কিউরিং করা দরকার। এতে করে আলুর গায়ের ক্ষত সেরে যাবে ও পোকার আক্রমণ থেকে সংগৃহীত আলু রক্ষা পাবে। এ প্রক্রিয়াকে আলু কিউরিং বলে।  সংরক্ষণের আগে কাটা, ফাটা, সবুজ, রোগাক্রান্ত আলু বাছাই করতে হয়। সংগ্রহের ৭-১০ দিনের ভেতর আলু পরিষ্কার করে আকার অনুযায়ী (বড়, মাঝারি, ছোট) গ্রেডিং করতে হবে। বাছাই করা আলু ঠান্ডা ও বাতাসযুক্ত ঘরে সংরক্ষণ করতে হয়। সংরক্ষিত আলু ১০-১৫ সে.মি উঁচু করে মেঝেতে বিছিয়ে রাখতে হবে। এ ছাড়া বাঁশের তৈরি মাচায়, ঘরের তাকে বা চৌকির নিচেও আলু বিছিয়ে রাখা যায়। সংরক্ষিত আলু ১০-১৫ দিন পর নিয়মিত বাছাই করা দরকার। রোগাক্রান্ত, পোকা লাগা ও পচা আলু দেখা মাত্র ফেলে দিতে হবে। আলুতে সুতলি পোকা দেখা গেলে সাথে সাথে বাছাই করে অনেক দূরে গর্ত করে পুঁতে ফেলা দরকার।"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

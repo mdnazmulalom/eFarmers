@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "760086208643",
+    "firebase_url": "https://efarmers-a2d4d.firebaseio.com",
+    "project_id": "efarmers-a2d4d",
+    "storage_bucket": "efarmers-a2d4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760086208643:android:4c2434ef735e8f7a793bb6",
+        "android_client_info": {
+          "package_name": "com.app.efarmers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760086208643-e0hggg5d9s1v6mhmjh2qu2pjtt15r7bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChU15VqzamWoh7W3y92JygInCzwkmSJ8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760086208643-e0hggg5d9s1v6mhmjh2qu2pjtt15r7bg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

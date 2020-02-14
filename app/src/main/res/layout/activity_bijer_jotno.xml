@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".farmers.crops.BijerJotnoActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:scaleType="fitXY"
+                    app:srcCompat="@drawable/fosol" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:background="@color/colorPrimary"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/solaiman_lipi"
+                    android:gravity="center"
+                    android:text="ভাল বীজের বৈশিষ্ট্য সমূহ"
+                    android:textColor="#fff"
+                    android:textSize="24sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/solaiman_lipi"
+                    android:padding="10dp"
+                    android:text="ভাল বীজের বৈশিষ্ট্য সমূহঃ \n ১. ভাল বীজের জাত উন্নত হতে হবে। \n ২. জাতের বিশুদ্ধতা থাকতে হবে। \n ৩. ভাল বীজের জাত উচ্চ ফলনশীল এবং কৃষকের কাংখিত হবে। \n ৪. এ ধরণের বীজের সাথে আগাছা বা অন্য জাতের বীজের মিশ্রন থাকবে না। (কমপক্ষে ৯৪% বিশুদ্ধ বীজ) \n ৫. বীজ সুপরিপক্ক, পুষ্ট, নিটোল ও সব বীজ একই আকারের হবে। \n ৬. বীজের চকচকে অর্থাৎ বীজের উজ্জ্বলতা বেশী হবে।  \n ৭. বীজে পোকা ও রোগের আক্রমন থাকবে না। \n ৮. বীজে পানির ভাগ বা আর্দ্রতা দানা ফসলের ক্ষেত্রে শতকরা ১০-১২ ভাগ এবং অন্যান্য বীজের ক্ষেত্রে ৬-৯ ভাগ থাকবে। এক্ষেত্রে বীজ দাঁত দিয়ে কাটলে কুট করে শব্দ হবে। \n ৯. গজানোর ক্ষমতা বীজের প্রকারভেদে শতকরা ৭০-৮০ ভাগের বেশী হবে। \n ১০. সকল বীজ প্রায় একসাথে এবং দ্রুত গজাবে।"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
