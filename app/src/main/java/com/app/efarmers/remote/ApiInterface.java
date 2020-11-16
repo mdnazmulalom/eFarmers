@@ -84,4 +84,5 @@ public interface ApiInterface {
                                    @Part(Constant.KEY_PRICE) RequestBody price,
                                    @Part(Constant.KEY_DESCRIPTION) RequestBody description,
                                    @Part(Constant.KEY_FARMER_CELL) RequestBody farmer_cell);
+
 }

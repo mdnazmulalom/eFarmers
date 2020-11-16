@@ -1,0 +1,17 @@
+
+g
+java:S1301®"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+G
+java:S1068("1Remove this unused "layoutManager" private field.(üÉÙ¼
+R	java:S125"<This block of commented-out lines of code should be removed.(Ÿàçé
+[
+java:S1128"ERemove this unused import 'androidx.appcompat.app.AppCompatActivity'.(€¶£î
+Y
+java:S1155e">Use isEmpty() to check whether the collection is empty or not.(†óüşÿÿÿÿ
+H
+java:S1128"3Remove this unused import 'android.content.Intent'.(³ğ‹G
+V	java:S125J"<This block of commented-out lines of code should be removed.(§Å‡ùÿÿÿÿ
+@
+java:S1659/"%Declare "getType" on a separate line.(¯±™£úÿÿÿÿ
+c
+java:S1192P"HDefine a constant instead of duplicating this literal "product" 4 times.(îùçğúÿÿÿÿ

@@ -1,0 +1,57 @@
+
+u
+java:S1104;"ZMake mPaymentMethod a static final constant or non-public and provide accessors if needed.(ÚÓÍ®üÿÿÿÿ
+o
+java:S11048"TMake mAddress a static final constant or non-public and provide accessors if needed.(Şˆ±æüÿÿÿÿ
+o
+java:S1104<"TMake mOrderID a static final constant or non-public and provide accessors if needed.(¿ƒ×½ûÿÿÿÿ
+S
+java:S1197;"8Move the array designator from the variable to the type.(ÚÓÍ®üÿÿÿÿ
+A
+java:S1128#"+Remove this unused import 'java.util.Date'.(¸…¼ü
+N
+java:S11979"8Move the array designator from the variable to the type.(Ã•í
+l	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¤±ıÿÿÿÿ
+p
+java:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(èÒ’
+g
+java:S11049"QMake mTime a static final constant or non-public and provide accessors if needed.(Ã•í
+w
+java:S11045"\Make mProductQuantity a static final constant or non-public and provide accessors if needed.(Ø¸¥¶ÿÿÿÿÿ
+S
+java:S11974"8Move the array designator from the variable to the type.(â–åÓúÿÿÿÿ
+S
+java:S11978"8Move the array designator from the variable to the type.(Şˆ±æüÿÿÿÿ
+j	java:S116+"URename this field "CustomList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ–ˆŒ
+g
+java:S1104:"QMake mDate a static final constant or non-public and provide accessors if needed.(âÿ¬Í
+g
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+l	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®á¿Üıÿÿÿÿ
+S
+java:S11975"8Move the array designator from the variable to the type.(Ø¸¥¶ÿÿÿÿÿ
+S
+java:S1197<"8Move the array designator from the variable to the type.(¿ƒ×½ûÿÿÿÿ
+S
+java:S11977"8Move the array designator from the variable to the type.(¤¡ôÒûÿÿÿÿ
+n
+java:S11043"XMake mProductName a static final constant or non-public and provide accessors if needed.(úü÷‚
+p
+java:S11046"ZMake mProductStatus a static final constant or non-public and provide accessors if needed.(µøÚ™
+t
+java:S11047"YMake mRetailerCell a static final constant or non-public and provide accessors if needed.(¤¡ôÒûÿÿÿÿ
+
+java:S4165o"kRemove this useless assignment; "getSearchText" already holds the assigned value along all execution paths.(¯ã¨œ
+l	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğãÍûÿÿÿÿ
+e
+java:S1128"ORemove this unused import 'com.app.efarmers.retailers.order.OrderListActivity'.(ëåöù
+N
+java:S11973"8Move the array designator from the variable to the type.(úü÷‚
+l	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÈİ…üÿÿÿÿ
+N
+java:S11976"8Move the array designator from the variable to the type.(µøÚ™
+N
+java:S1197:"8Move the array designator from the variable to the type.(âÿ¬Í
+m	java:S1162"SRename this field "MAX_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”üÇøşÿÿÿÿ
+t
+java:S11044"YMake mProductPrice a static final constant or non-public and provide accessors if needed.(â–åÓúÿÿÿÿ

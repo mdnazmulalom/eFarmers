@@ -1,0 +1,13 @@
+
+H
+java:S1128"3Remove this unused import 'android.content.Intent'.(³ğ‹G
+j	java:S116)"URename this field "CustomList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ–ˆŒ
+
+java:S4165b"kRemove this useless assignment; "getSearchText" already holds the assigned value along all execution paths.(¯ã¨œ
+l	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÈİ…üÿÿÿÿ
+b
+java:S1128"LRemove this unused import 'com.app.efarmers.farmers.products.OrderActivity'.(¾‚¡‹
+g
+java:S1301Ê"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+p
+java:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(èÒ’

@@ -1,0 +1,29 @@
+
+g
+java:S1301¬"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+A
+java:S1659 "+Declare "txtDonateDate" on a separate line.(¿«¶´
+?
+java:S1659 ")Declare "txtPassword" on a separate line.(¿«¶´
+;
+java:S1659 "%Declare "txtName" on a separate line.(¿«¶´
+g	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù‹ù›
+m	java:S116""SRename this field "UserCell" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÃ ‘ûÿÿÿÿ
+=
+java:S1659 "'Declare "txtGender" on a separate line.(¿«¶´
+<
+java:S1659 "&Declare "txtName2" on a separate line.(¿«¶´
+;
+java:S1659 "%Declare "txtCell" on a separate line.(¿«¶´
+G
+java:S1481ƒ"0Remove this unused "donate_date" local variable.(Ù‹ù›
+Q	java:S125X"<This block of commented-out lines of code should be removed.(ßâŠ±
+<
+java:S1659 "&Declare "txtEmail" on a separate line.(¿«¶´
+?
+java:S1659 ")Declare "txtLocation" on a separate line.(¿«¶´
+R	java:S125—"<This block of commented-out lines of code should be removed.(ÕîŽ…
+l	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü‹ýÙúÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(»ŠÔñþÿÿÿÿ
+A
+java:S1659 "+Declare "txtProfession" on a separate line.(¿«¶´

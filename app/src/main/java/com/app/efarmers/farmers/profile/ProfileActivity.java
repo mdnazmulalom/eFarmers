@@ -1,7 +1,5 @@
 package com.app.efarmers.farmers.profile;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.Intent;
@@ -47,7 +45,7 @@ public class ProfileActivity extends BaseActivity {
         setContentView(R.layout.activity_profile);
 
         //Fetching cell from shared preferences
-        sharedPreferences =getSharedPreferences(Constant.SHARED_PREF_NAME, Context.MODE_PRIVATE);
+        sharedPreferences = getSharedPreferences(Constant.SHARED_PREF_NAME, Context.MODE_PRIVATE);
         String cell = sharedPreferences.getString(Constant.CELL_SHARED_PREF, "Not Available");
         UserCell = cell;
         getSupportActionBar().setHomeButtonEnabled(true); //for back button
@@ -55,25 +53,25 @@ public class ProfileActivity extends BaseActivity {
         getSupportActionBar().setTitle("Profile");
 
 
-        txtName=findViewById(R.id.txtName);
-        txtName2=findViewById(R.id.txtName2);
-        txtCell=findViewById(R.id.txtCell);
-        txtGender=findViewById(R.id.txtGender);
-        txtLocation=findViewById(R.id.txtLocation);
+        txtName = findViewById(R.id.txtName);
+        txtName2 = findViewById(R.id.txtName2);
+        txtCell = findViewById(R.id.txtCell);
+        txtGender = findViewById(R.id.txtGender);
+        txtLocation = findViewById(R.id.txtLocation);
 
 
-        profilePic=findViewById(R.id.profile_image);
-        txtEdit=findViewById(R.id.txtEdit);
+        profilePic = findViewById(R.id.profile_image);
+        txtEdit = findViewById(R.id.txtEdit);
 
         txtEdit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
-                Intent intent=new Intent(ProfileActivity.this, EditProfileActivity.class);
-                intent.putExtra("name",txtName.getText());
-                intent.putExtra("cell",txtCell.getText());
-                intent.putExtra("location",txtLocation.getText());
-                intent.putExtra("gender",txtGender.getText());
+                Intent intent = new Intent(ProfileActivity.this, EditProfileActivity.class);
+                intent.putExtra("name", txtName.getText());
+                intent.putExtra("cell", txtCell.getText());
+                intent.putExtra("location", txtLocation.getText());
+                intent.putExtra("gender", txtGender.getText());
                 startActivity(intent);
             }
         });
@@ -160,9 +158,6 @@ public class ProfileActivity extends BaseActivity {
 //        {
 //            profilePic.setImageResource(R.drawable.girl);
 //        }
-
-
-
 
 
         txtCell.setText(cell);

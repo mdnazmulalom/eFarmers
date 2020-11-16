@@ -1,9 +1,6 @@
 package com.app.efarmers.farmers.profile;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.app.AlertDialog;
-import android.app.DatePickerDialog;
 import android.app.ProgressDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -11,7 +8,6 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.DatePicker;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -29,10 +25,7 @@ import com.app.efarmers.R;
 import com.app.efarmers.farmers.FarmersHomeActivity;
 import com.app.efarmers.utils.BaseActivity;
 
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
 import java.util.HashMap;
-import java.util.Locale;
 import java.util.Map;
 
 import es.dmoral.toasty.Toasty;
@@ -188,6 +181,9 @@ public class EditProfileActivity extends BaseActivity {
 
                             case 1:
                                 txtGender.setText(genderList[position]);
+                                break;
+
+                            default:
                                 break;
 
 

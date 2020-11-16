@@ -1,0 +1,45 @@
+
+g	java:S117ψ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Δο¶
+f	java:S117υ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ψό
+H
+java:S1659'"-Declare "etxtDescription" on a separate line.(»Διπωÿÿÿÿ
+D
+java:S1659*".Declare "product_category" on a separate line.(ά―θ‰
+g	java:S117ω"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(τΓύπ
+@
+java:S1659*"*Declare "product_name" on a separate line.(ά―θ‰
+B
+java:S1172ι"&Remove these unused method parameters.(–Κ–¨ύÿÿÿÿ
+C
+java:S1172Α",Remove this unused method parameter "which".(¦Ά
+E
+java:S1659'"*Declare "etxtCategory" on a separate line.(»Διπωÿÿÿÿ
+G
+java:S1659*"1Declare "product_description" on a separate line.(ά―θ‰
+—
+java:S1186’"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(υW
+g
+java:S1192ς"KDefine a constant instead of duplicating this literal "text/plain" 7 times.(¥μΆϋÿÿÿÿ
+A
+java:S1659*"+Declare "product_stock" on a separate line.(ά―θ‰
+l	java:S116*"WRename this field "product_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ά―θ‰
+C
+java:S1172¶",Remove this unused method parameter "which".(¦Ά
+p	java:S116*"[Rename this field "product_category" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ά―θ‰
+B
+java:S1659("'Declare "txtSubmit" on a separate line.(ζ°«ΐώÿÿÿÿ
+g	java:S117τ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ώ†…
+>
+java:S1659*"(Declare "farmerCell" on a separate line.(ά―θ‰
+f	java:S117φ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“υp
+g	java:S117χ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ό³ό£
+m	java:S116*"XRename this field "product_price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ά―θ‰
+B
+java:S1659'"'Declare "etxtPrice" on a separate line.(»Διπωÿÿÿÿ
+A
+java:S1659*"+Declare "product_price" on a separate line.(ά―θ‰
+s	java:S116*"^Rename this field "product_description" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ά―θ‰
+m	java:S116*"XRename this field "product_stock" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ά―θ‰
+Q	java:S125N"<This block of commented-out lines of code should be removed.(ξό£Ι
+B
+java:S1659'"'Declare "etxtStock" on a separate line.(»Διπωÿÿÿÿ

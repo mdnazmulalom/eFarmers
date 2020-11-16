@@ -1,0 +1,45 @@
+
+A
+java:S16597"&Declare "userCell" on a separate line.(»Ôõ°øÿÿÿÿ
+R	java:S125æ"<This block of commented-out lines of code should be removed.(“­ó
+A
+java:S16590"&Declare "btnMinus" on a separate line.(Â€Ìæúÿÿÿÿ
+;
+java:S16597" Declare "id" on a separate line.(»Ôõ°øÿÿÿÿ
+˜
+java:S1186®"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™§Êü
+B
+java:S1659/",Declare "txtOrderSubmit" on a separate line.(Ò·ñå
+A
+java:S16597"&Declare "quantity" on a separate line.(»Ôõ°øÿÿÿÿ
+[
+java:S1128"ERemove this unused import 'androidx.appcompat.app.AppCompatActivity'.(€¶£î
+s	java:S1167"YRename this field "payment_method" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ôõ°øÿÿÿÿ
+k
+java:S1128"PRemove this unused import 'com.app.efarmers.farmers.order.OrderDetailsActivity'.(¥‹¤ôüÿÿÿÿ
+
+java:S1186³"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÀÚ²¿şÿÿÿÿ
+>
+java:S16597"#Declare "price" on a separate line.(»Ôõ°øÿÿÿÿ
+@
+java:S16597"%Declare "address" on a separate line.(»Ôõ°øÿÿÿÿ
+W
+java:S1128"<Remove this unused import 'com.app.efarmers.SignUpActivity'.(à¢œøÿÿÿÿ
+<
+java:S1659/"&Declare "txtPrice" on a separate line.(Ò·ñå
+?
+java:S1659/")Declare "txtQuantity" on a separate line.(Ò·ñå
+G
+java:S16597",Declare "payment_method" on a separate line.(»Ôõ°øÿÿÿÿ
+h	java:S1169"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡Ó¨ıÿÿÿÿ
+Q
+java:S1128";Remove this unused import 'com.app.efarmers.LoginActivity'.(å“¨ı
+D
+java:S16597")Declare "farmer_cell" on a separate line.(»Ôõ°øÿÿÿÿ
+A
+java:S16597"&Declare "getPrice" on a separate line.(»Ôõ°øÿÿÿÿ
+H
+java:S16593"-Declare "rbOnlinePayment" on a separate line.(çÜñÛûÿÿÿÿ
+F
+java:S16599"+Declare "transactionId" on a separate line.(‡Ó¨ıÿÿÿÿ
+p	java:S1167"VRename this field "farmer_cell" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Ôõ°øÿÿÿÿ

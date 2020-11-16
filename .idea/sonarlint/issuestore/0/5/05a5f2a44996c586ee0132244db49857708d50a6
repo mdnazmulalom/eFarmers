@@ -1,0 +1,63 @@
+
+N
+java:S1481ò"+Remove this unused "intent" local variable.(˜å€ ıÿÿÿÿ8âõ¹úÎ.
+@
+java:S1659$"%Declare "address" on a separate line.(ıØ¹íşÿÿÿÿ
+=
+java:S1659$""Declare "date" on a separate line.(ıØ¹íşÿÿÿÿ
+r	java:S116$"XRename this field "retailer_cell" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıØ¹íşÿÿÿÿ
+W	java:S125Ä"<This block of commented-out lines of code should be removed.(’¬…±şÿÿÿÿ
+B
+java:S1659$"'Declare "getStatus" on a separate line.(ıØ¹íşÿÿÿÿ
+K
+java:S1659&"0Declare "txtProductQuantity" on a separate line.(íÜÉÕşÿÿÿÿ
+l	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î–ÍĞıÿÿÿÿ
+H
+java:S1659&"-Declare "txtProductPrice" on a separate line.(íÜÉÕşÿÿÿÿ
+C
+java:S1172¤",Remove this unused method parameter "which".(¦Œœ¢
+I
+java:S1659&".Declare "txtPaymentMethod" on a separate line.(íÜÉÕşÿÿÿÿ
+>
+java:S1659$"#Declare "price" on a separate line.(ıØ¹íşÿÿÿÿ
+D
+java:S1659&")Declare "txtTimeDate" on a separate line.(íÜÉÕşÿÿÿÿ
+C
+java:S1172",Remove this unused method parameter "which".(¦Œœ¢
+G
+java:S1659&",Declare "txtProductName" on a separate line.(íÜÉÕşÿÿÿÿ
+C
+java:S1172…",Remove this unused method parameter "which".(¦Œœ¢
+A
+java:S1659$"&Declare "order_id" on a separate line.(ıØ¹íşÿÿÿÿ
+W	java:S125Õ"<This block of commented-out lines of code should be removed.(ëÃÍ¡ùÿÿÿÿ
+G
+java:S1659&",Declare "txtFullAddress" on a separate line.(íÜÉÕşÿÿÿÿ
+i	java:S100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„éÕ›ÿÿÿÿÿ
+G
+java:S1659&",Declare "txtCancelOrder" on a separate line.(íÜÉÕşÿÿÿÿ
+C
+java:S1172­",Remove this unused method parameter "which".(¦Œœ¢
+=
+java:S1659$""Declare "time" on a separate line.(ıØ¹íşÿÿÿÿ
+C
+java:S1659&"(Declare "txtOrderId" on a separate line.(íÜÉÕşÿÿÿÿ
+m	java:S116$"SRename this field "order_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıØ¹íşÿÿÿÿ
+F
+java:S1659$"+Declare "retailer_cell" on a separate line.(ıØ¹íşÿÿÿÿ
+b
+java:S1128"LRemove this unused import 'com.app.efarmers.farmers.products.OrderActivity'.(¾‚¡‹
+?
+java:S1659$"$Declare "status" on a separate line.(ıØ¹íşÿÿÿÿ
+[
+java:S1128"ERemove this unused import 'androidx.appcompat.app.AppCompatActivity'.(€¶£î
+s	java:S116$"YRename this field "payment_method" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıØ¹íşÿÿÿÿ
+H
+java:S1659&"-Declare "txtConfirmOrder" on a separate line.(íÜÉÕşÿÿÿÿ
+G
+java:S1659&",Declare "txtOrderStatus" on a separate line.(íÜÉÕşÿÿÿÿ
+G
+java:S1659$",Declare "payment_method" on a separate line.(ıØ¹íşÿÿÿÿ
+W	java:S125ô"<This block of commented-out lines of code should be removed.(Úö”èüÿÿÿÿ
+A
+java:S1659$"&Declare "quantity" on a separate line.(ıØ¹íşÿÿÿÿ

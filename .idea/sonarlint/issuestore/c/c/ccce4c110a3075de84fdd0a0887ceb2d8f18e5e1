@@ -1,0 +1,13 @@
+
+L
+java:S2696i"6Make the enclosing method "static" or remove this set.(é‘
+m
+java:S3008"WRename this field "back_pressed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¼ÑÄ
+D
+java:S1659")Declare "cardProduct" on a separate line.(ÈÂ·şÿÿÿÿ
+c
+java:S1128"MRemove this unused import 'com.app.efarmers.retailers.RetailersHomeActivity'.(Ä¶¹ë
+G
+java:S1659",Declare "cardViewNotice" on a separate line.(ÈÂ·şÿÿÿÿ
+C
+java:S1659"(Declare "cardLogout" on a separate line.(ÈÂ·şÿÿÿÿ

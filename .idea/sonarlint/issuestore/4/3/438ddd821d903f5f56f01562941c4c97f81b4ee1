@@ -1,0 +1,30 @@
+
+C
+java:S1172Ç",Remove this unused method parameter "which".(¦Œœ¢
+j
+java:S1128!"ORemove this unused import 'com.app.efarmers.govt.add_notice.AddNoticeActivity'.(‡Ôùìûÿÿÿÿ
+j	java:S116/"URename this field "CustomList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ–ˆŒ
+C
+java:S1172Ğ",Remove this unused method parameter "which".(¦Œœ¢
+>
+java:S1481N")Remove this unused "cell" local variable.(ÁÔ°
+k	java:S117O"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÿ–‹şÿÿÿÿ
+
+java:S4165n"kRemove this useless assignment; "getSearchText" already holds the assigned value along all execution paths.(¯ã¨œ
+l	java:S117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò§‚Şúÿÿÿÿ
+d	java:S100ã"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ÌÛß
+o
+java:S11045"TMake noticeID a static final constant or non-public and provide accessors if needed.(—¬¶âùÿÿÿÿ
+W	java:S125å"<This block of commented-out lines of code should be removed.(’¬…±şÿÿÿÿ
+l	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åÈİ…üÿÿÿÿ
+g
+java:S1301»"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+m	java:S1164"SRename this field "Max_Size" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ïÇ¾øÿÿÿÿ
+L
+java:S1481O"1Remove this unused "get_password" local variable.(«ÿ–‹şÿÿÿÿ
+S
+java:S11975"8Move the array designator from the variable to the type.(—¬¶âùÿÿÿÿ
+k	java:S1168"VRename this field "get_ac_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê—ù¢
+p
+java:S2293‘"YReplace the type specification in this constructor call with the diamond operator ("<>").(èÒ’
+W	java:S125ö"<This block of commented-out lines of code should be removed.(ëÃÍ¡ùÿÿÿÿ

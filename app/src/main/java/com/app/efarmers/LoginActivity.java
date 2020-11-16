@@ -1,7 +1,5 @@
 package com.app.efarmers;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
 import android.content.Context;
@@ -14,6 +12,8 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.android.volley.AuthFailureError;
 import com.android.volley.Request;
@@ -106,6 +106,8 @@ public class LoginActivity extends AppCompatActivity {
                                 break;
                             case 2:
                                 etxtAccountType.setText(typeList[position]);
+                                break;
+                            default:
                                 break;
 
 

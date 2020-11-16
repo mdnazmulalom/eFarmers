@@ -1,8 +1,5 @@
 package com.app.efarmers.farmers;
 
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.cardview.widget.CardView;
-
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -10,8 +7,10 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.Button;
 import android.widget.Toast;
+
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.cardview.widget.CardView;
 
 import com.app.efarmers.Constant;
 import com.app.efarmers.R;
@@ -19,7 +18,6 @@ import com.app.efarmers.farmers.crops.CropsActivity;
 import com.app.efarmers.farmers.order.FarmerOrderActivity;
 import com.app.efarmers.farmers.products.AddProductActivity;
 import com.app.efarmers.farmers.products.AllProductsActivity;
-import com.app.efarmers.farmers.products.ProductCategoryActivity;
 import com.app.efarmers.farmers.profile.ProfileActivity;
 import com.app.efarmers.govt.view_notice.ViewNoticeActivity;
 import com.app.efarmers.utils.BaseActivity;
@@ -121,13 +119,9 @@ public class FarmersHomeActivity extends BaseActivity {
         cardLogout.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
-
                         editor.clear();
                         editor.apply();
                         finishAffinity();
-
-
 
             }
         });
@@ -179,8 +173,7 @@ public class FarmersHomeActivity extends BaseActivity {
             finish();
 
         } else {
-            Toasty.info(this, "Press once again to exit!",
-                    Toast.LENGTH_SHORT).show();
+            Toasty.info(this, "Press once again to exit!", Toast.LENGTH_SHORT).show();
         }
         back_pressed = System.currentTimeMillis();
     }

@@ -1,0 +1,42 @@
+
+<
+java:S1659("&Declare "etxtCell" on a separate line.(è×—ş
+b
+java:S1192`"GDefine a constant instead of duplicating this literal "Cancel" 3 times.(çÄİöøÿÿÿÿ
+=
+java:S1659("'Declare "etxtEmail" on a separate line.(è×—ş
+D
+java:S1659%")Declare "accountType" on a separate line.(Ö£‹ÿÿÿÿÿ
+f
+java:S1301S"KReplace this "switch" statement by "if" statements to increase readability.(¼œóÛüÿÿÿÿ
+=	java:S131´""Add a default case to this switch.(¼œóÛüÿÿÿÿ
+R	java:S125ì"<This block of commented-out lines of code should be removed.(“­ó
+A
+java:S1659%"&Declare "password" on a separate line.(Ö£‹ÿÿÿÿÿ
+=
+java:S1659%""Declare "cell" on a separate line.(Ö£‹ÿÿÿÿÿ
+?
+java:S1659%"$Declare "gender" on a separate line.(Ö£‹ÿÿÿÿÿ
+c
+java:S1871X"HThis case's code block is the same as the block for the case on line 84.(ªëÅŞúÿÿÿÿ
+g
+java:S1301š"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+>
+java:S1659%"#Declare "email" on a separate line.(Ö£‹ÿÿÿÿÿ
+<	java:S131S""Add a default case to this switch.(¼œóÛüÿÿÿÿ
+@
+java:S1659("*Declare "etxtLocation" on a separate line.(è×—ş
+Q	java:S1257"<This block of commented-out lines of code should be removed.(ª±š­
+Q	java:S125{"<This block of commented-out lines of code should be removed.(îü£É
+R	java:S125­"<This block of commented-out lines of code should be removed.(ùü…á
+@
+java:S1659("*Declare "etxtPassword" on a separate line.(è×—ş
+m
+java:S3776,"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¨Œşÿÿÿÿ
+>
+java:S1659("(Declare "etxtGender" on a separate line.(è×—ş
+Q	java:S125L"<This block of commented-out lines of code should be removed.(îü£É
+C
+java:S1659("-Declare "etxtAccountType" on a separate line.(è×—ş
+A
+java:S1659%"&Declare "location" on a separate line.(Ö£‹ÿÿÿÿÿ

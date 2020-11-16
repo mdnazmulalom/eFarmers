@@ -1,0 +1,37 @@
+
+R	java:S125 "<This block of commented-out lines of code should be removed.(ˆÛç
+c
+java:S1192;"NDefine a constant instead of duplicating this literal "Not Available" 3 times.(ÁÔ°
+B
+java:S1659%"'Declare "txtSignUp" on a separate line.(ÚıÓ„ùÿÿÿÿ
+R	java:S125Ó"<This block of commented-out lines of code should be removed.(£†“
+E
+java:S1659*"*Declare "UserPassword" on a separate line.(ìªÇ©ùÿÿÿÿ
+R	java:S125ô"<This block of commented-out lines of code should be removed.(£†“
+R	java:S125ÿ"<This block of commented-out lines of code should be removed.(ˆÛç
+R	java:S125í"<This block of commented-out lines of code should be removed.(¼í’Ò
+R	java:S125Ş"<This block of commented-out lines of code should be removed.(ˆÛç
+W	java:S125ö"<This block of commented-out lines of code should be removed.(‚ÍËşÿÿÿÿ
+m	java:S116*"SRename this field "UserCell" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìªÇ©ùÿÿÿÿ
+q	java:S116*"WRename this field "UserPassword" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìªÇ©ùÿÿÿÿ
+W	java:S125á"<This block of commented-out lines of code should be removed.(Ä³ş›øÿÿÿÿ
+W	java:S125ï"<This block of commented-out lines of code should be removed.(–ÈÉøşÿÿÿÿ
+Q	java:S125\"<This block of commented-out lines of code should be removed.(îü£É
+k	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹®ÌÉúÿÿÿÿ
+k	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÿ–‹şÿÿÿÿ
+e
+java:S1192Û"ODefine a constant instead of duplicating this literal "Login Success!" 3 times.(ØŞØf
+R	java:S125ÿ"<This block of commented-out lines of code should be removed.(Àæ×‘
+R	java:S125"<This block of commented-out lines of code should be removed.(ÍÆ…·
+@
+java:S1659&"*Declare "etxtPassword" on a separate line.(ô Ç™
+R	java:S125•"<This block of commented-out lines of code should be removed.(£†“
+Q	java:S125B"<This block of commented-out lines of code should be removed.(éªüğ
+W	java:S125ô"<This block of commented-out lines of code should be removed.(‹‡ø¬ùÿÿÿÿ
+R	java:S125û"<This block of commented-out lines of code should be removed.(¤‚Õ»
+C
+java:S1659&"-Declare "etxtAccountType" on a separate line.(ô Ç™
+R	java:S125®"<This block of commented-out lines of code should be removed.(ŠüÆ
+W	java:S125ë"<This block of commented-out lines of code should be removed.(Ç­Ø¹ùÿÿÿÿ
+W	java:S125†"<This block of commented-out lines of code should be removed.(™”†İùÿÿÿÿ
+W	java:S125º"<This block of commented-out lines of code should be removed.(ÆÙ¨Èúÿÿÿÿ

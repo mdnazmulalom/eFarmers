@@ -1,0 +1,13 @@
+
+M
+java:S1128"2Remove this unused import 'android.widget.Button'.(²òıÿÿÿÿ
+m
+java:S3008 "WRename this field "back_pressed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¼ÑÄ
+E
+java:S1659"*Declare "cardProducts" on a separate line.(„Í·Îøÿÿÿÿ
+D
+java:S1659")Declare "cardMyOrder" on a separate line.(„Í·Îøÿÿÿÿ
+C
+java:S1659"(Declare "cardLogout" on a separate line.(„Í·Îøÿÿÿÿ
+L
+java:S2696i"6Make the enclosing method "static" or remove this set.(é‘

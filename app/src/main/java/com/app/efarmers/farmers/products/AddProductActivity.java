@@ -1,20 +1,14 @@
 package com.app.efarmers.farmers.products;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.content.pm.ApplicationInfo;
-import android.database.Cursor;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
-import android.net.Uri;
 import android.os.Bundle;
-import android.provider.MediaStore;
 import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
@@ -23,11 +17,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.app.efarmers.Constant;
-import com.app.efarmers.LoginActivity;
 import com.app.efarmers.R;
-import com.app.efarmers.farmers.products.model.Product;
 import com.app.efarmers.farmers.products.model.ProductUpload;
-import com.app.efarmers.farmers.profile.EditProfileActivity;
 import com.app.efarmers.remote.ApiClient;
 import com.app.efarmers.remote.ApiInterface;
 import com.app.efarmers.utils.BaseActivity;
@@ -63,7 +54,6 @@ public class AddProductActivity extends BaseActivity {
         etxtPrice=findViewById(R.id.etxt_price);
         imgProduct=findViewById(R.id.image_product);
         etxtStock=findViewById(R.id.etxt_stock);
-
 
         txtChooseImage=findViewById(R.id.txt_choose_image);
         txtSubmit=findViewById(R.id.txt_submit);
@@ -104,7 +94,8 @@ public class AddProductActivity extends BaseActivity {
                             case 2:
                                 etxtCategory.setText(categoryList[position]);
                                 break;
-
+                            default:
+                                break;
 
 
                         }
@@ -223,17 +214,11 @@ public class AddProductActivity extends BaseActivity {
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
         try {
-
             // When an Image is picked
             if (requestCode == 1213 && resultCode == RESULT_OK && null != data) {
-
-
-
                 mediaPath = data.getStringExtra(ImageSelectActivity.RESULT_FILE_PATH);
                 Bitmap selectedImage = BitmapFactory.decodeFile(mediaPath);
                 imgProduct.setImageBitmap(selectedImage);
-
-
             }
 
 

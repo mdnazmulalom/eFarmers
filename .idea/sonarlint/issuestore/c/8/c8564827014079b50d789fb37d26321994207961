@@ -1,0 +1,38 @@
+
+g
+java:S1301ê"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+Q	java:S125T"<This block of commented-out lines of code should be removed.(ÉÎ¸›
+R	java:S125Ó"<This block of commented-out lines of code should be removed.(ÄõºÏ
+g	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùñã‹
+@
+java:S1659&"%Declare "txtCell" on a separate line.(İİâÄûÿÿÿÿ
+W	java:S125°"<This block of commented-out lines of code should be removed.(Úö”èüÿÿÿÿ
+D
+java:S1659&")Declare "txtPassword" on a separate line.(İİâÄûÿÿÿÿ
+g
+java:S1301´"KReplace this "switch" statement by "if" statements to increase readability.(¼œóÛüÿÿÿÿ
+W	java:S125Ë"<This block of commented-out lines of code should be removed.(âÜ©ñùÿÿÿÿ
+D
+java:S1659&")Declare "txtLocation" on a separate line.(İİâÄûÿÿÿÿ
+i	java:S100ï"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êù³‘ÿÿÿÿÿ
+Q	java:S125Q"<This block of commented-out lines of code should be removed.(ï‹Ü»
+l
+java:S1128"QRemove this unused import 'com.app.efarmers.farmers.profile.EditProfileActivity'.(ı€ñ³ùÿÿÿÿ
+_
+java:S1128"IRemove this unused import 'com.app.efarmers.farmers.FarmersHomeActivity'.(·±ÁÁ
+=	java:S131´""Add a default case to this switch.(¼œóÛüÿÿÿÿ
+B
+java:S1659&"'Declare "txtGender" on a separate line.(İİâÄûÿÿÿÿ
+N
+java:S1481®"+Remove this unused "intent" local variable.(¤‰¶¥úÿÿÿÿ8è†ú¶°.
+W	java:S125…"<This block of commented-out lines of code should be removed.(’¬…±şÿÿÿÿ
+W	java:S125˜"<This block of commented-out lines of code should be removed.(ëÃÍ¡ùÿÿÿÿ
+C
+java:S1172Ø",Remove this unused method parameter "which".(¦Œœ¢
+<	java:S131g""Add a default case to this switch.(¼œóÛüÿÿÿÿ
+C
+java:S1172â",Remove this unused method parameter "which".(¦Œœ¢
+B
+java:S1659*"'Declare "txtUpdate" on a separate line.(Ü§õ¢ıÿÿÿÿ
+e
+java:S1871¹"IThis case's code block is the same as the block for the case on line 181.(ªëÅŞúÿÿÿÿ
