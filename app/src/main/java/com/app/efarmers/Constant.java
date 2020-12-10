@@ -1,12 +1,14 @@
 package com.app.efarmers;
 
 public class Constant {
-//
+
 //    public static final String MAIN_URL="https://android.nkrit.com/efarmers/android";
 //    public static final String HOST_URL="https://android.nkrit.com/efarmers/";
 
-  public static final String MAIN_URL="https://demo.digitalmarketingctg.xyz/efarmers/android";
-   public static final String HOST_URL="https://demo.digitalmarketingctg.xyz/efarmers/";
+//    public static final String MAIN_URL="https://demo.digitalmarketingctg.xyz/efarmers/android";
+//    public static final String HOST_URL="https://demo.digitalmarketingctg.xyz/efarmers/";
+    public static final String MAIN_URL = "https://demo.digitalmarketingctg.xyz/efarmers/android/";
+    public static final String HOST_URL = "https://demo.digitalmarketingctg.xyz/efarmers/";
 
 
     public static final String LOGIN_URL = MAIN_URL+"/login.php";

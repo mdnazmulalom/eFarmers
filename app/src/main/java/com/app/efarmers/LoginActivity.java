@@ -69,7 +69,6 @@ public class LoginActivity extends AppCompatActivity {
 //        }
 //
 
-
         if (!UserCell.equals("Not Available") && !UserPassword.equals("0") ) {
             etxtCell.setText(UserCell);
             etxtPassword.setText(UserPassword);
@@ -109,9 +108,6 @@ public class LoginActivity extends AppCompatActivity {
                                 break;
                             default:
                                 break;
-
-
-
                         }
                     }
                 });
@@ -234,7 +230,6 @@ public class LoginActivity extends AppCompatActivity {
 
                                 //Creating editor to store values to shared preferences
                                 SharedPreferences.Editor editor = sharedPreferences.edit();
-
                                 //Adding values to editor
                                 editor.putString(Constant.AC_TYPE_SHARED_PREF, account_type);
                                 editor.putString(Constant.CELL_SHARED_PREF, userCell);
